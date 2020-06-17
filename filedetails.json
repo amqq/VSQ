@@ -5,7 +5,7 @@ dev tun
 proto udp
 sndbuf 0
 rcvbuf 0
-remote 49.12.104.39 1191
+remote 49.12.104.39 1194
 resolv-retry infinite
 nobind
 persist-key
