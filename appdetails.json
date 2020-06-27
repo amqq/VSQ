@@ -1,10 +1,10 @@
 {
   "ads":"true",
   "update":[{
-    "version":"TestVersion",
-    "title":"Sword VPN have new update for you!",
+    "version":"TestVersion2",
+    "title":"Zeus VPN have new update for you!",
     "description":"you can get the source code with click on button.",
-    "size":"https://kernell32.ir"
+    "size":"Version Size : 10MB"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
@@ -16,6 +16,6 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Amazon","country":"Germany","image":"germany","ip":"18.194.209.134","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Germany","country":"Germany","image":"germany","ip":"18.194.209.134","active":"true","signal":"a"},
   ]
 }
