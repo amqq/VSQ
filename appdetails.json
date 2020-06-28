@@ -18,5 +18,6 @@
   "free":[
     {"id":0, "file":0, "city":"Germany","country":"Germany","image":"germany","ip":"18.194.209.134","active":"true","signal":"a"},
     {"id":1, "file":1, "city":"Netherland","country":"Netherland","image":"netherlands","ip":"51.68.191.75","active":"true","signal":"a"},
+    {"id":2, "file":2, "city":"Hetzener","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"a"},
   ]
 }
