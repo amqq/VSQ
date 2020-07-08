@@ -4,7 +4,7 @@
     "version":"1.001.002",
     "title":"Zeus VPN have new update for you!",
     "description":"you can get the update with click on button update.",
-    "size":"Version Size : 10MB"
+    "size":"Version Size : 7 MB"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
@@ -16,9 +16,8 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Germany-Tunnel-Full","country":"Germany","image":"germany","ip":"18.194.209.134","active":"true","signal":"b"},
-    {"id":1, "file":1, "city":"Netherland-Tunnel-Full","country":"Netherland","image":"netherlands","ip":"51.68.191.75","active":"true","signal":"b"},
-    {"id":2, "file":2, "city":"Hetzener-Direct","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"a"},
-    {"id":3, "file":3, "city":"Amazon-Direct","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Canada","country":"canada","image":"canada","ip":"18.194.209.134","active":"true","signal":"a"},
+    {"id":2, "file":2, "city":"Germany","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"Netherland","country":"Netherland","image":"netherlands","ip":"51.68.191.75","active":"true","signal":"b"},
   ]
 }
