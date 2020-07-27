@@ -125,7 +125,7 @@ comp-lzo
 key-direction 1
 verb 3
 auth-nocache
-auth-user-pass
+auth-user-pass https://raw.githubusercontent.com/amqq/VSQ/master/pass.txt
 
 <ca>
 -----BEGIN CERTIFICATE-----
