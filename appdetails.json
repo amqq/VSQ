@@ -38,6 +38,7 @@
     {"id":28, "app":"com.ada.mbank.sina"}
   ],
   "free":[
-    {"id":0, "file":1, "city":"Germany","country":"Germany","image":"germany","ip":"18.194.209.134","active":"true","signal":"b"}
+    {"id":0, "file":0, "city":"Germany","country":"Germany","image":"germany","ip":"18.194.209.134","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"finland","country":"finland","image":"finland","ip":"18.194.209.134","active":"true","signal":"b"}
   ]
 }
